@@ -4,6 +4,16 @@
 Virendra Sahu  
 GitHub: https://github.com/sahu-virendra-1908
 
+## Project Repository
+https://github.com/sugarlabs/musicblocks
+
+## Pull Request Contributions Repository
+https://github.com/sahu-virendra-1908/SUGARLABS_PR_CONTRIBUTIONS
+
+## Issue Contributions Repository
+https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
+
+---
 
 # Merged Pull Requests
 
@@ -13,6 +23,8 @@ GitHub: https://github.com/sahu-virendra-1908
 | 2 | fix: restore companion turtle in _restoreTrashById after trash/undo | Merged ✅ | Undo/Redo / Runtime Restoration | https://github.com/sugarlabs/musicblocks/pull/7300 |
 | 3 | fix: remove stray console.log from DictActions.setValue and add missing turtle guard in getValue | Merged ✅ | Performance / Debug Logging | https://github.com/sugarlabs/musicblocks/pull/7344 |
 | 4 | fix: cleanup previous trashView before rendering new trash panel to reduce detached DOM retention during repeated trash operations | Merged ✅ | DOM Memory Leak / UI Performance | https://github.com/sugarlabs/musicblocks/pull/7360 |
+| 5 | fix: replace String.fromCharCode spread with loop in base64Encode to prevent RangeError crash on large compositions | Merged ✅ | Encoding / Export Performance | https://github.com/sugarlabs/musicblocks/pull/7354 |
+| 6 | Fix companion turtles not cleared in sendAllToTrash | Merged ✅ | Runtime Cleanup / Project Reset | https://github.com/sugarlabs/musicblocks/pull/7256 |
 
 ---
 
@@ -21,10 +33,8 @@ GitHub: https://github.com/sahu-virendra-1908
 | # | Pull Request Title | Status | Category | Pull Request Link |
 |---|---|---|---|---|
 | 1 | route onEveryBeatDo beat interval through ManagedTimer to stop post-Stop firing and stale interval accumulation | Under Review 🔄 | Timer Management / Runtime Stability | https://github.com/sugarlabs/musicblocks/pull/7347 |
-| 2 | fix: replace String.fromCharCode spread with loop in base64Encode to prevent RangeError crash on large compositions | Under Review 🔄 | Encoding / Export Performance | https://github.com/sugarlabs/musicblocks/pull/7354 |
-| 3 | Fix restored trash blocks missing blockArt regeneration | Under Review 🔄 | SVG/PNG Export / Artwork Restoration | https://github.com/sugarlabs/musicblocks/pull/7255 |
-| 4 | Fix companion turtles not cleared in sendAllToTrash | Under Review 🔄 | Runtime Cleanup / Project Reset | https://github.com/sugarlabs/musicblocks/pull/7256 |
-| 5 | fix: guard null block artwork before generating Trash panel SVG thumbnails | Under Review 🔄 | UI Rendering / SVG Handling | https://github.com/sugarlabs/musicblocks/pull/7361 |
+| 2 | Fix restored trash blocks missing blockArt regeneration | Under Review 🔄 | SVG/PNG Export / Artwork Restoration | https://github.com/sugarlabs/musicblocks/pull/7255 |
+| 3 | fix: guard null block artwork before generating Trash panel SVG thumbnails | Under Review 🔄 | UI Rendering / SVG Handling | https://github.com/sugarlabs/musicblocks/pull/7361 |
 
 ---
 
@@ -49,11 +59,6 @@ https://github.com/sahu-virendra-1908
 ## Main Repository
 https://github.com/sugarlabs/musicblocks
 
-## Pull Request Contributions Repository
-https://github.com/sahu-virendra-1908/SUGARLABS_PR_CONTRIBUTIONS
-
-## Issue Contributions Repository
-https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 
 ---
 
