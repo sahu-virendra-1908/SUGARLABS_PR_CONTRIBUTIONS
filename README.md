@@ -4,10 +4,6 @@
 Virendra Sahu  
 GitHub: https://github.com/sahu-virendra-1908
 
-Project Repository:  
-https://github.com/sugarlabs/musicblocks
-
----
 
 # Merged Pull Requests
 
@@ -42,6 +38,22 @@ https://github.com/sugarlabs/musicblocks
 | Export System | SVG/PNG export reliability improvements |
 | Memory Management | Event listener cleanup and interval handling |
 | Open Source | Bug fixing, debugging, and pull request contributions |
+
+---
+
+# Verification
+
+## GitHub Profile
+https://github.com/sahu-virendra-1908
+
+## Main Repository
+https://github.com/sugarlabs/musicblocks
+
+## Pull Request Contributions Repository
+https://github.com/sahu-virendra-1908/SUGARLABS_PR_CONTRIBUTIONS
+
+## Issue Contributions Repository
+https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 
 ---
 
