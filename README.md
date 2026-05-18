@@ -35,7 +35,7 @@ https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 | 1 | route onEveryBeatDo beat interval through ManagedTimer to stop post-Stop firing and stale interval accumulation | Under Review 🔄 | Timer Management / Runtime Stability | https://github.com/sugarlabs/musicblocks/pull/7347 |
 | 2 | Fix restored trash blocks missing blockArt regeneration | Under Review 🔄 | SVG/PNG Export / Artwork Restoration | https://github.com/sugarlabs/musicblocks/pull/7255 |
 | 3 | fix: guard null block artwork before generating Trash panel SVG thumbnails | Under Review 🔄 | UI Rendering / SVG Handling | https://github.com/sugarlabs/musicblocks/pull/7361 |
-
+| 4 | remove temporary plugin loader scripts from document.head after execution | Under Review 🔄 | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
 ---
 
 # Contribution Areas
