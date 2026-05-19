@@ -1,3 +1,4 @@
+```markdown
 # Pull Requests — Sugar Labs Music Blocks
 
 ## Contributor
@@ -25,6 +26,7 @@ https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 | 4 | fix: cleanup previous trashView before rendering new trash panel to reduce detached DOM retention during repeated trash operations | Merged ✅ | DOM Memory Leak / UI Performance | https://github.com/sugarlabs/musicblocks/pull/7360 |
 | 5 | fix: replace String.fromCharCode spread with loop in base64Encode to prevent RangeError crash on large compositions | Merged ✅ | Encoding / Export Performance | https://github.com/sugarlabs/musicblocks/pull/7354 |
 | 6 | Fix companion turtles not cleared in sendAllToTrash | Merged ✅ | Runtime Cleanup / Project Reset | https://github.com/sugarlabs/musicblocks/pull/7256 |
+| 7 | Fix restored trash blocks missing blockArt regeneration | Merged ✅ | SVG/PNG Export / Artwork Restoration | https://github.com/sugarlabs/musicblocks/pull/7255 |
 
 ---
 
@@ -33,9 +35,11 @@ https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 | # | Pull Request Title | Status | Category | Pull Request Link |
 |---|---|---|---|---|
 | 1 | route onEveryBeatDo beat interval through ManagedTimer to stop post-Stop firing and stale interval accumulation | Under Review 🔄 | Timer Management / Runtime Stability | https://github.com/sugarlabs/musicblocks/pull/7347 |
-| 2 | Fix restored trash blocks missing blockArt regeneration | Under Review 🔄 | SVG/PNG Export / Artwork Restoration | https://github.com/sugarlabs/musicblocks/pull/7255 |
-| 3 | fix: guard null block artwork before generating Trash panel SVG thumbnails | Under Review 🔄 | UI Rendering / SVG Handling | https://github.com/sugarlabs/musicblocks/pull/7361 |
-| 4 | remove temporary plugin loader scripts from document.head after execution | Under Review 🔄 | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
+| 2 | fix: guard null block artwork before generating Trash panel SVG thumbnails | Under Review 🔄 | UI Rendering / SVG Handling | https://github.com/sugarlabs/musicblocks/pull/7361 |
+| 3 | remove temporary plugin loader scripts from document.head after execution | Under Review 🔄 | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
+| 4 | fix: prevent null match crash when loading malformed HTML project files | Under Review 🔄 | Project Loader / HTML Parsing Stability | https://github.com/sugarlabs/musicblocks/pull/7398 |
+| 5 | fix: prevent recursive traversal from cyclic block graphs | Under Review 🔄 | Graph Traversal / Runtime Stability | https://github.com/sugarlabs/musicblocks/pull/7396 |
+
 ---
 
 # Contribution Areas
@@ -59,7 +63,6 @@ https://github.com/sahu-virendra-1908
 ## Main Repository
 https://github.com/sugarlabs/musicblocks
 
-
 ---
 
 # Project
@@ -67,3 +70,4 @@ https://github.com/sugarlabs/musicblocks
 | Name | Link |
 |---|---|
 | Sugar Labs Music Blocks | https://github.com/sugarlabs/musicblocks |
+```
