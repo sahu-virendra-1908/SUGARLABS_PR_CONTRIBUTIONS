@@ -1,4 +1,4 @@
-```markdown
+
 # Pull Requests — Sugar Labs Music Blocks
 
 ## Contributor
@@ -70,4 +70,3 @@ https://github.com/sugarlabs/musicblocks
 | Name | Link |
 |---|---|
 | Sugar Labs Music Blocks | https://github.com/sugarlabs/musicblocks |
-```
