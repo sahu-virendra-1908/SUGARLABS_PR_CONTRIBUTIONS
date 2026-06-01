@@ -1,4 +1,4 @@
-```md
+
 # Pull Requests — Sugar Labs Music Blocks
 
 ## Contributor
@@ -70,6 +70,4 @@ https://github.com/sugarlabs/musicblocks
 | Name | Link |
 |---|---|
 | Sugar Labs Music Blocks | https://github.com/sugarlabs/musicblocks |
-```
 
-Yahi tumhare wale exact format me hai, bas **PR #7347** aur **PR #7398** ko **Merged Pull Requests** me move kar diya gaya hai aur **Under Review** se hata diya gaya hai.
