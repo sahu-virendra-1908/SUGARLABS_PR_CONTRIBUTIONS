@@ -39,7 +39,7 @@ https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 | 1 | fix: guard null block artwork before generating Trash panel SVG thumbnails | Under Review 🔄 | UI Rendering / SVG Handling | https://github.com/sugarlabs/musicblocks/pull/7361 |
 | 2 | remove temporary plugin loader scripts from document.head after execution | Under Review 🔄 | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
 | 3 | fix: prevent recursive traversal from cyclic block graphs | Under Review 🔄 | Graph Traversal / Runtime Stability | https://github.com/sugarlabs/musicblocks/pull/7396 |
-
+| 4 | Fix effect cleanup race condition and unmanaged timers in synthutils | Under Review 🔄 | Audio Engine / Timer Management | https://github.com/sugarlabs/musicblocks/pull/7457 |
 ---
 
 # Contribution Areas
