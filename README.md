@@ -29,7 +29,7 @@ https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 | 7 | Fix companion turtles not cleared in sendAllToTrash | Merged ✅ | Runtime Cleanup / Project Reset | https://github.com/sugarlabs/musicblocks/pull/7256 |
 | 8 | Fix restored trash blocks missing blockArt regeneration | Merged ✅ | SVG/PNG Export / Artwork Restoration | https://github.com/sugarlabs/musicblocks/pull/7255 |
 | 9 | fix: prevent null match crash when loading malformed HTML project files | Merged ✅ | Project Loader / HTML Parsing Stability | https://github.com/sugarlabs/musicblocks/pull/7398 |
-| 10 | remove temporary plugin loader scripts from document.head after execution | Under Review 🔄 | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
+| 10 | remove temporary plugin loader scripts from document.head after execution | Merged ✅ | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
 ---
 
 # Pull Requests Under Review
