@@ -29,7 +29,7 @@ https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 | 7 | Fix companion turtles not cleared in sendAllToTrash | Merged ✅ | Runtime Cleanup / Project Reset | https://github.com/sugarlabs/musicblocks/pull/7256 |
 | 8 | Fix restored trash blocks missing blockArt regeneration | Merged ✅ | SVG/PNG Export / Artwork Restoration | https://github.com/sugarlabs/musicblocks/pull/7255 |
 | 9 | fix: prevent null match crash when loading malformed HTML project files | Merged ✅ | Project Loader / HTML Parsing Stability | https://github.com/sugarlabs/musicblocks/pull/7398 |
-
+| 10 | remove temporary plugin loader scripts from document.head after execution | Under Review 🔄 | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
 ---
 
 # Pull Requests Under Review
@@ -37,9 +37,8 @@ https://github.com/sahu-virendra-1908/SUGARLABS_ISSUE_CONTRIBUTIONS.md
 | # | Pull Request Title | Status | Category | Pull Request Link |
 |---|---|---|---|---|
 | 1 | fix: guard null block artwork before generating Trash panel SVG thumbnails | Under Review 🔄 | UI Rendering / SVG Handling | https://github.com/sugarlabs/musicblocks/pull/7361 |
-| 2 | remove temporary plugin loader scripts from document.head after execution | Under Review 🔄 | Plugin Loader / DOM Cleanup | https://github.com/sugarlabs/musicblocks/pull/7389 |
-| 3 | fix: prevent recursive traversal from cyclic block graphs | Under Review 🔄 | Graph Traversal / Runtime Stability | https://github.com/sugarlabs/musicblocks/pull/7396 |
-| 4 | Fix effect cleanup race condition and unmanaged timers in synthutils | Under Review 🔄 | Audio Engine / Timer Management | https://github.com/sugarlabs/musicblocks/pull/7457 |
+| 2 | fix: prevent recursive traversal from cyclic block graphs | Under Review 🔄 | Graph Traversal / Runtime Stability | https://github.com/sugarlabs/musicblocks/pull/7396 |
+| 3 | Fix effect cleanup race condition and unmanaged timers in synthutils | Under Review 🔄 | Audio Engine / Timer Management | https://github.com/sugarlabs/musicblocks/pull/7457 |
 ---
 
 # Contribution Areas
